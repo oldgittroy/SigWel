@@ -46,3 +46,7 @@ To run the server and follow the steps below:
 
 ### Server folder
 - The "server" folder for server side code.
+
+
+### Notes
+Lori you need to update the readme
